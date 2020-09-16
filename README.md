@@ -1,6 +1,6 @@
 ## Restoring Division.
 ### Sample input and output:
----------------------------------------------------------------------------------------------------------------------
+
 Enter the dividend(Q)  :  479
 Enter the divisor(M)   :  62
 Initial C value is     :  0
